@@ -1,11 +1,11 @@
 # Jokes-generator
 
-Jokes generator using Dad jokes API
+Jokes generator using Dad jokes API.
+
 Made by following @wesbos's course 'Beginner Javascript'.
 
 Uses: **HTML5, CSS, JS**.
 
-In this project I practiced my JavaScript skills. Learned how to fetch data from the API and how to properly structure my projects.
-Also I used ES6 modules.
+In this project I practiced my JavaScript skills. Learned how to fetch data from the API and how to properly structure my projects with ES6 modules.
 
 [Git Pages](https://splinekonstantin.github.io/Jokes-generator)
